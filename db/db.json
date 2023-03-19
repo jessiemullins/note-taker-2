@@ -1,6 +1,12 @@
+
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "Groceries",
+        "text": "Don't forget fruits and vegetables",
+        "note_id": "7cb1"
     }
 ]
